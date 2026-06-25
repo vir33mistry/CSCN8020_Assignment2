@@ -1,0 +1,8 @@
+experiment,alpha,epsilon,gamma,total_episodes,mean_return_all,mean_return_last_n,mean_steps_all,mean_steps_last_n,best_return,eval_average_return,eval_average_steps,eval_success_like_rate,selected_reason
+baseline_alpha_0_1_epsilon_0_1,0.1,0.1,0.9,3000,-37.66433333333333,2.53,40.980333333333334,14.42,15.0,-0.18,20.34,0.96,
+alpha_0_01_epsilon_0_1,0.01,0.1,0.9,3000,-203.44233333333332,-125.77,153.37733333333333,106.75,15.0,-205.07,188.42,0.06,
+alpha_0_001_epsilon_0_1,0.001,0.1,0.9,3000,-262.468,-252.21,186.32,183.3,11.0,-217.82,200.0,0.0,
+alpha_0_2_epsilon_0_1,0.2,0.1,0.9,3000,-20.507666666666665,2.65,29.320666666666668,14.12,15.0,8.03,12.97,1.0,
+alpha_0_1_epsilon_0_2,0.1,0.2,0.9,3000,-52.067,-4.48,43.984,16.75,15.0,6.0,14.79,0.99,
+alpha_0_1_epsilon_0_3,0.1,0.3,0.9,3000,-68.836,-14.91,46.641,19.17,15.0,3.94,16.64,0.98,
+best_combo_alpha_0_2_epsilon_0_1,0.2,0.1,0.9,3000,-20.013,1.9,28.778,14.42,15.0,8.03,12.97,1.0,Best baseline/experiment candidate by evaluation average return and last-100 episode return.

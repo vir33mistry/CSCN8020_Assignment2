@@ -1,0 +1,43 @@
+2026-06-24 23:03:33,953 | INFO | Assignment 2 notebook started.
+2026-06-24 23:03:34,216 | INFO | Created Gymnasium environment: Taxi-v4
+2026-06-24 23:03:34,216 | INFO | Training started | experiment=baseline_alpha_0_1_epsilon_0_1 | episodes=3000 | alpha=0.1000 | epsilon=0.1000 | gamma=0.9000
+2026-06-24 23:03:42,914 | INFO | Progress | experiment=baseline_alpha_0_1_epsilon_0_1 | episode=1000 | mean_return_last_100=-16.620 | mean_steps_last_100=29.250
+2026-06-24 23:03:44,877 | INFO | Progress | experiment=baseline_alpha_0_1_epsilon_0_1 | episode=2000 | mean_return_last_100=0.270 | mean_steps_last_100=16.050
+2026-06-24 23:03:46,314 | INFO | Progress | experiment=baseline_alpha_0_1_epsilon_0_1 | episode=3000 | mean_return_last_100=2.530 | mean_steps_last_100=14.420
+2026-06-24 23:03:46,314 | INFO | Training finished | experiment=baseline_alpha_0_1_epsilon_0_1 | final_summary={'total_episodes': 3000, 'mean_return_all': -37.66433333333333, 'mean_return_last_n': 2.53, 'mean_steps_all': 40.980333333333334, 'mean_steps_last_n': 14.42, 'best_return': 15.0}
+2026-06-24 23:03:48,828 | INFO | Created Gymnasium environment: Taxi-v4
+2026-06-24 23:03:48,830 | INFO | Training started | experiment=alpha_0_01_epsilon_0_1 | episodes=3000 | alpha=0.0100 | epsilon=0.1000 | gamma=0.9000
+2026-06-24 23:04:02,995 | INFO | Progress | experiment=alpha_0_01_epsilon_0_1 | episode=1000 | mean_return_last_100=-237.090 | mean_steps_last_100=175.230
+2026-06-24 23:04:13,313 | INFO | Progress | experiment=alpha_0_01_epsilon_0_1 | episode=2000 | mean_return_last_100=-189.170 | mean_steps_last_100=148.100
+2026-06-24 23:04:22,290 | INFO | Progress | experiment=alpha_0_01_epsilon_0_1 | episode=3000 | mean_return_last_100=-125.770 | mean_steps_last_100=106.750
+2026-06-24 23:04:22,290 | INFO | Training finished | experiment=alpha_0_01_epsilon_0_1 | final_summary={'total_episodes': 3000, 'mean_return_all': -203.44233333333332, 'mean_return_last_n': -125.77, 'mean_steps_all': 153.37733333333333, 'mean_steps_last_n': 106.75, 'best_return': 15.0}
+2026-06-24 23:04:25,136 | INFO | Created Gymnasium environment: Taxi-v4
+2026-06-24 23:04:25,136 | INFO | Training started | experiment=alpha_0_001_epsilon_0_1 | episodes=3000 | alpha=0.0010 | epsilon=0.1000 | gamma=0.9000
+2026-06-24 23:04:38,026 | INFO | Progress | experiment=alpha_0_001_epsilon_0_1 | episode=1000 | mean_return_last_100=-267.780 | mean_steps_last_100=189.000
+2026-06-24 23:04:50,752 | INFO | Progress | experiment=alpha_0_001_epsilon_0_1 | episode=2000 | mean_return_last_100=-266.100 | mean_steps_last_100=189.570
+2026-06-24 23:05:03,818 | INFO | Progress | experiment=alpha_0_001_epsilon_0_1 | episode=3000 | mean_return_last_100=-252.210 | mean_steps_last_100=183.300
+2026-06-24 23:05:03,818 | INFO | Training finished | experiment=alpha_0_001_epsilon_0_1 | final_summary={'total_episodes': 3000, 'mean_return_all': -262.468, 'mean_return_last_n': -252.21, 'mean_steps_all': 186.32, 'mean_steps_last_n': 183.3, 'best_return': 11.0}
+2026-06-24 23:05:06,344 | INFO | Created Gymnasium environment: Taxi-v4
+2026-06-24 23:05:06,344 | INFO | Training started | experiment=alpha_0_2_epsilon_0_1 | episodes=3000 | alpha=0.2000 | epsilon=0.1000 | gamma=0.9000
+2026-06-24 23:05:10,776 | INFO | Progress | experiment=alpha_0_2_epsilon_0_1 | episode=1000 | mean_return_last_100=1.810 | mean_steps_last_100=15.410
+2026-06-24 23:05:12,061 | INFO | Progress | experiment=alpha_0_2_epsilon_0_1 | episode=2000 | mean_return_last_100=2.660 | mean_steps_last_100=15.190
+2026-06-24 23:05:13,649 | INFO | Progress | experiment=alpha_0_2_epsilon_0_1 | episode=3000 | mean_return_last_100=2.650 | mean_steps_last_100=14.120
+2026-06-24 23:05:13,652 | INFO | Training finished | experiment=alpha_0_2_epsilon_0_1 | final_summary={'total_episodes': 3000, 'mean_return_all': -20.507666666666665, 'mean_return_last_n': 2.65, 'mean_steps_all': 29.320666666666668, 'mean_steps_last_n': 14.12, 'best_return': 15.0}
+2026-06-24 23:05:15,822 | INFO | Created Gymnasium environment: Taxi-v4
+2026-06-24 23:05:15,822 | INFO | Training started | experiment=alpha_0_1_epsilon_0_2 | episodes=3000 | alpha=0.1000 | epsilon=0.2000 | gamma=0.9000
+2026-06-24 23:05:22,351 | INFO | Progress | experiment=alpha_0_1_epsilon_0_2 | episode=1000 | mean_return_last_100=-30.500 | mean_steps_last_100=32.780
+2026-06-24 23:05:24,287 | INFO | Progress | experiment=alpha_0_1_epsilon_0_2 | episode=2000 | mean_return_last_100=-7.230 | mean_steps_last_100=18.330
+2026-06-24 23:05:25,622 | INFO | Progress | experiment=alpha_0_1_epsilon_0_2 | episode=3000 | mean_return_last_100=-4.480 | mean_steps_last_100=16.750
+2026-06-24 23:05:25,622 | INFO | Training finished | experiment=alpha_0_1_epsilon_0_2 | final_summary={'total_episodes': 3000, 'mean_return_all': -52.067, 'mean_return_last_n': -4.48, 'mean_steps_all': 43.984, 'mean_steps_last_n': 16.75, 'best_return': 15.0}
+2026-06-24 23:05:27,496 | INFO | Created Gymnasium environment: Taxi-v4
+2026-06-24 23:05:27,496 | INFO | Training started | experiment=alpha_0_1_epsilon_0_3 | episodes=3000 | alpha=0.1000 | epsilon=0.3000 | gamma=0.9000
+2026-06-24 23:05:34,406 | INFO | Progress | experiment=alpha_0_1_epsilon_0_3 | episode=1000 | mean_return_last_100=-49.590 | mean_steps_last_100=37.830
+2026-06-24 23:05:36,053 | INFO | Progress | experiment=alpha_0_1_epsilon_0_3 | episode=2000 | mean_return_last_100=-16.680 | mean_steps_last_100=20.670
+2026-06-24 23:05:37,596 | INFO | Progress | experiment=alpha_0_1_epsilon_0_3 | episode=3000 | mean_return_last_100=-14.910 | mean_steps_last_100=19.170
+2026-06-24 23:05:37,601 | INFO | Training finished | experiment=alpha_0_1_epsilon_0_3 | final_summary={'total_episodes': 3000, 'mean_return_all': -68.836, 'mean_return_last_n': -14.91, 'mean_steps_all': 46.641, 'mean_steps_last_n': 19.17, 'best_return': 15.0}
+2026-06-24 23:05:39,749 | INFO | Created Gymnasium environment: Taxi-v4
+2026-06-24 23:05:39,749 | INFO | Training started | experiment=best_combo_alpha_0_2_epsilon_0_1 | episodes=3000 | alpha=0.2000 | epsilon=0.1000 | gamma=0.9000
+2026-06-24 23:05:44,386 | INFO | Progress | experiment=best_combo_alpha_0_2_epsilon_0_1 | episode=1000 | mean_return_last_100=0.460 | mean_steps_last_100=15.500
+2026-06-24 23:05:46,029 | INFO | Progress | experiment=best_combo_alpha_0_2_epsilon_0_1 | episode=2000 | mean_return_last_100=1.730 | mean_steps_last_100=15.130
+2026-06-24 23:05:47,678 | INFO | Progress | experiment=best_combo_alpha_0_2_epsilon_0_1 | episode=3000 | mean_return_last_100=1.900 | mean_steps_last_100=14.420
+2026-06-24 23:05:47,678 | INFO | Training finished | experiment=best_combo_alpha_0_2_epsilon_0_1 | final_summary={'total_episodes': 3000, 'mean_return_all': -20.013, 'mean_return_last_n': 1.9, 'mean_steps_all': 28.778, 'mean_steps_last_n': 14.42, 'best_return': 15.0}
