@@ -1,16 +1,16 @@
 # CSCN8020 Assignment 2 — Taxi Gymnasium Environment with Q-Learning
 
 **Student Name:** Viraj Mistry  
-**Student ID:** [Replace with your student ID]  
+**Student ID:** 9088985 
 **Course:** CSCN8020 — Reinforcement Learning Programming  
 **Assignment:** Assignment 2 — Taxi Gymnasium Environment with Q-Learning  
 
 ## GitHub Repository
 
-Repository URL: <https://github.com/viraj231259/CSCN8020_Assignment2>  
-Cloneable URL: <https://github.com/viraj231259/CSCN8020_Assignment2.git>
+Repository URL: <https://github.com/vir33mistry/CSCN8020_Assignment2.git>  
+Cloneable URL: <https://github.com/vir33mistry/CSCN8020_Assignment2.git>
 
-## Project Summary
+## Project Summary 
 
 This project implements the **Q-Learning algorithm** on the Taxi Gymnasium environment. The goal is to train an agent to move through the Taxi environment, pick up the passenger, and drop the passenger off at the correct destination. The implementation uses a tabular Q-table, epsilon-greedy exploration, temporal-difference updates, reward tracking, steps-per-episode tracking, hyperparameter experiments, and final policy evaluation.
 
@@ -193,7 +193,7 @@ CSCN8020_Assignment2/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/viraj231259/CSCN8020_Assignment2.git
+git clone https://github.com/vir33mistry/CSCN8020_Assignment2.git
 cd CSCN8020_Assignment2
 ```
 
